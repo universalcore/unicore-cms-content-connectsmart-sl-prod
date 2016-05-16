@@ -6,12 +6,12 @@
   "primary_category": "875af394bc4948e1be8a8de89727e135", 
   "created_at": "2015-07-20T19:18:23+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-08-12T12:17:19.120746+00:00", 
+  "modified_at": "2016-05-16T12:30:30.407568+00:00", 
   "_version": {
     "package_version": "1.4.0", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "a87d1fe5057448c197663b89310b62e7", 
   "published": null, 
-  "position": 2, 
+  "position": 0, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "torne-se-um-otimo-usuario-de-internet", 
   "uuid": "e1281336f87149219f1193359049c3db"
